@@ -4,7 +4,6 @@ import mobileImg from './a-mobile.png'
 export default function Home() {
 
 
-
   return (
 <main>
    <div className="bg-white shadow-sm sm:flex">
@@ -22,7 +21,6 @@ export default function Home() {
       <div>
   
     <div className="flex rounded-lg shadow-sm">
-
      <input  type="text"></input>
     </div>
   </div>
