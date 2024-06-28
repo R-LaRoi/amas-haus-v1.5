@@ -8,7 +8,7 @@ export default function Home() {
 <main>
 <div className="flex flex-wrap bg-white shadow-lg">
    
-    <img src="https://github.com/R-LaRoi/amas-haus-v1.5/assets/114012059/c8d0bbaa-e842-4e36-a7dd-bb06660b0e9d" alt="stool and pillows on the floor" className="w-full h-48 object-cover sm:h-full sm:w-4/12"/>
+    <Image src="https://github.com/R-LaRoi/amas-haus-v1.5/assets/114012059/c8d0bbaa-e842-4e36-a7dd-bb06660b0e9d" alt="stool and pillows on the floor" className="w-full h-48 object-cover sm:h-full sm:w-4/12"/>
 
 
  <div className="w-full sm:w-8/12 mb-10">
