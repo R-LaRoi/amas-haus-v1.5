@@ -19,6 +19,11 @@ main {
 .header-text {
 }
 
+.ah-logo {
+  padding: 0;
+  margin: 0;
+  width: 70px;
+}
 @media screen and (max-width: 790px) {
   body {
   }
